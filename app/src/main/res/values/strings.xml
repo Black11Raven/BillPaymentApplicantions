@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bill Payment Helper</string>
+    <string name="string1">Choose The Bill Type</string>
+    <string name="string2">Choose Your Language</string>
+    <string name="string3">Electricity Bills</string>
+    <string name="string4">Water Bills Or Taxes</string>
+    <string name="string5">House Taxes</string>
+    <string name="string6">Other Taxes</string>
+</resources>
